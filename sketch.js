@@ -229,7 +229,7 @@ function draw() {
   background("#404040");
   drawSprites();
 
-  //Mostar puntuación y vídas
+  //Mostar puntuación y vidas
   textSize(15);
   fill("yellow");
   text("Puntos: "+ points, 210, 25);
